@@ -1,4 +1,4 @@
-package logic.basics;
+package logicbuilding;
 
 public class HelloWorld {
     public static void main(String[] args) {
